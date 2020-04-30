@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name M2-PCIe-adapter-footprints)(type KiCad)(uri ${KIPRJMOD}/lib/M2-PCIe-adapter-footprints)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name M2-PCIe-adapter-rescue)(type Legacy)(uri ${KIPRJMOD}/M2-PCIe-adapter-rescue.lib)(options "")(descr ""))
+  (lib (name M2-PCIe-adapter)(type Legacy)(uri ${KIPRJMOD}/lib/M2-PCIe-adapter.lib)(options "")(descr ""))
+)
