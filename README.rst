@@ -1,10 +1,10 @@
-==========================
+===========================
 M.2 to PCIe x4 adapter card
-==========================
+===========================
 
 Copyright (c) 2020-2021 Antmicro <`www.antmicro.com <https://www.antmicro.com>`_>
 
-.. image:: img/pcie-adapter.png
+.. image:: img/pcie-adapter.jpg
    :scale: 40%
 
 Overview
