@@ -2,7 +2,7 @@
 M.2 to PCIe x4 adapter card
 ==========================
 
-Copyright (c) 2020 Antmicro <`www.antmicro.com <https://www.antmicro.com>`_>
+Copyright (c) 2020-2021 Antmicro <`www.antmicro.com <https://www.antmicro.com>`_>
 
 .. image:: img/pcie-adapter.png
    :scale: 40%
@@ -39,3 +39,7 @@ It simply passes the signals from the M.2 connector to the PCIe card edge socket
 The final thickness of the PCB should be 0.8mm to make it fit in the M.2 slots.
 Since most PCIe card edge connectors are adjusted for 1.55mm, some mechanical tooling is required to assemble the PCIe socket on the PCB.
 
+License
+=======
+
+`Apache-2.0 <LICENSE>`_
